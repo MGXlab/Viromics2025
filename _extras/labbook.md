@@ -4,16 +4,20 @@ title: Lab Book
 permalink: /labbook/index.html
 ---
 
-References for writing in markdown:
-
-- https://commonmark.org/help/
-- https://www.markdownguide.org/basic-syntax/
+### Specific instructions for your lab book:
+- Don't attach the scripts (Usually, you might add these into your personal lab books but for this course, please avoid)
+- Attach any results if you require them to answer the questions
+- Please copy the question into your book and answer it
+- Make sure you answer all the questions
+- Keep the lab book as concise as possible and in a single document
+- Write in whatever note-taking software you want but **please submit as a single PDF**
 
 Start your lab book today and send a copy of it to your instructor on the last day.
 
 > ## Some *strong* suggestions on writing a good lab book:
 > 
 > - Document your work and tasks everyday
+> - You might want to add notes about discussions, important things to note and comments. 
 > 
 > - Structure it in a chronological order; each section = new day
 >     - Adding sections for specific tasks like "01_Evaluating sequence quality"
@@ -26,20 +30,11 @@ Start your lab book today and send a copy of it to your instructor on the last d
 > - Include citations for all the papers and tools you reference in your lab book
 > 
 > An example can be seen [here](https://github.com/waltercostamb/course_viral-microbiology/blob/main/tutorials/lab-book.pdf)
+>
 > 
 >  {: .source}
 {: .callout}
 
-### Where to write this lab book in markdown?
-
-A plain text editor that is NOT Microsoft Word. 
-
-- [VScode](https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/)
-    - You can also use VScode for accessing Draco [see here](https://mgxlab.github.io/Viromics2024/1.1.1_introduction/index.html#adding-a-ssh-remote-server-to-vscode)
-    
--  [Obsidian](https://obsidian.md/) (Varada uses for all note-taking)
-
-- [A big list of other editors](https://github.com/mundimark/awesome-markdown-editors?tab=readme-ov-file#markdown-desktop-editors)
 
 ### Additional References
 
