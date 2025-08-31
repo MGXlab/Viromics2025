@@ -12,11 +12,12 @@ permalink: /labbook/index.html
 >- Make sure you answer all the questions
 >- Keep the lab book as concise as possible and in a single document
 >- Write in whatever note-taking software you want but **please submit as a single PDF**
-> 
+>
+> Start your lab book today and send a copy of it to your instructor on the last day.
+>
 >  {: .source}
 {: .callout}
 
-Start your lab book today and send a copy of it to your instructor on the last day.
 
 #### Some suggestions on writing a good lab book:
 - Document your work and tasks everyday
